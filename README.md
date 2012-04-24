@@ -1,3 +1,9 @@
+Update !
+========
+
+- Deprecated, as this code had been added in Subscribe2 starting in v8 (the hooks were renamed)
+
+
 Subscribe2 with new filters
 ===========================
 
